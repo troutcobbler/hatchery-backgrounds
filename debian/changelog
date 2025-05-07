@@ -1,3 +1,9 @@
+hatchery-backgrounds (0.1.2) gila; urgency=medium
+
+  * Changes architecture to all. 
+
+ -- Will Elliott <troutcobbler@gmail.com>  Tue, 06 May 2025 20:04:18 -0600
+
 hatchery-backgrounds (0.1.1) gila; urgency=medium
 
   * Rebuild for gila.
