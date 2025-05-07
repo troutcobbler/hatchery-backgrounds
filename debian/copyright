@@ -1,10 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: hatchery-backgrounds
 Upstream-Contact: troutcobbler@gmail.com 
-Source: https://bitbucket.org/troutcobbler/hatchery-backgrounds
+Source: https://github.com/troutcobbler/hatchery-backgrounds
 
 Files: *
-Copyright: 2020-2022 troutcobbler@gmail.com
+Copyright: 2020-2025 troutcobbler@gmail.com
 License: MIT
 
 License: MIT

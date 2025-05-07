@@ -1,3 +1,9 @@
+hatchery-backgrounds (0.1.1) gila; urgency=medium
+
+  * Rebuild for gila.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Tue, 06 May 2025 18:34:48 -0600
+
 hatchery-backgrounds (0.1.0) pecos; urgency=medium
 
   * Rebuild for pecos. Switched to native format.
